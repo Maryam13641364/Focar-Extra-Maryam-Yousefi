@@ -1,3 +1,9 @@
+#Maryam
+#25.11.2026
+# extra assignment 2
+# Running focar, 3 times flashing at each corner
+
+
 from machine import Pin, PWM
 from time import sleep
 
